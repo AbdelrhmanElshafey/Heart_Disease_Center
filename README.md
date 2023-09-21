@@ -3,6 +3,13 @@
 <p align="center">
      <img src="img project\Capture.PNG">
       <p align="center">
+       <b>LOGIN PAGE</b>
+     </p>
+ </p>
+
+ <p align="center">
+     <img src="img project\home_admin.png">
+      <p align="center">
        <b>HOME PAGE</b>
      </p>
  </p>
