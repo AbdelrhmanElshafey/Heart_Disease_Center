@@ -1,0 +1,78 @@
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\bin\Debug\First interface.exe.config
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\bin\Debug\First interface.exe
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\bin\Debug\First interface.pdb
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\bin\Debug\byMarc.Net2.WinLibrary.DataGridView.ThreadSafeLib.dll
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\bin\Debug\GradientColorPicker.dll
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\bin\Debug\Guna.UI2.dll
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\bin\Debug\Krypton.Toolkit.dll
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\bin\Debug\Krypton.Toolkit.Suite.Extended.DataGridView.dll
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\bin\Debug\byMarc.Net2.WinLibrary.DataGridView.ThreadSafeLib.xml
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\bin\Debug\GradientColorPicker.xml
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\bin\Debug\Krypton.Toolkit.xml
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\bin\Debug\Krypton.Toolkit.Suite.Extended.DataGridView.xml
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\obj\Debug\Login.csproj.SuggestedBindingRedirects.cache
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\obj\Debug\First_interface.HOME.resources
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\obj\Debug\First_interface.Login.resources
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\obj\Debug\First_interface.Properties.Resources.resources
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\obj\Debug\First_interface.Staff.resources
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\obj\Debug\Login.csproj.CopyComplete
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\obj\Debug\First interface.exe
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\obj\Debug\First interface.pdb
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\obj\Debug\First_interface.Patient_Admin.resources
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\obj\Debug\First_interface.Doctor.resources
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\obj\Debug\First_interface.Patient.resources
+C:\Users\bodye\OneDrive\Desktop\Project\First interface1\First interface\First interface\bin\Debug\First interface.exe.config
+C:\Users\bodye\OneDrive\Desktop\Project\First interface1\First interface\First interface\bin\Debug\First interface.exe
+C:\Users\bodye\OneDrive\Desktop\Project\First interface1\First interface\First interface\bin\Debug\First interface.pdb
+C:\Users\bodye\OneDrive\Desktop\Project\First interface1\First interface\First interface\bin\Debug\byMarc.Net2.WinLibrary.DataGridView.ThreadSafeLib.dll
+C:\Users\bodye\OneDrive\Desktop\Project\First interface1\First interface\First interface\bin\Debug\GradientColorPicker.dll
+C:\Users\bodye\OneDrive\Desktop\Project\First interface1\First interface\First interface\bin\Debug\Guna.UI2.dll
+C:\Users\bodye\OneDrive\Desktop\Project\First interface1\First interface\First interface\bin\Debug\Krypton.Toolkit.dll
+C:\Users\bodye\OneDrive\Desktop\Project\First interface1\First interface\First interface\bin\Debug\Krypton.Toolkit.Suite.Extended.DataGridView.dll
+C:\Users\bodye\OneDrive\Desktop\Project\First interface1\First interface\First interface\bin\Debug\byMarc.Net2.WinLibrary.DataGridView.ThreadSafeLib.xml
+C:\Users\bodye\OneDrive\Desktop\Project\First interface1\First interface\First interface\bin\Debug\GradientColorPicker.xml
+C:\Users\bodye\OneDrive\Desktop\Project\First interface1\First interface\First interface\bin\Debug\Krypton.Toolkit.xml
+C:\Users\bodye\OneDrive\Desktop\Project\First interface1\First interface\First interface\bin\Debug\Krypton.Toolkit.Suite.Extended.DataGridView.xml
+C:\Users\bodye\OneDrive\Desktop\Project\First interface1\First interface\First interface\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\bodye\OneDrive\Desktop\Project\First interface1\First interface\First interface\obj\Debug\Login.csproj.SuggestedBindingRedirects.cache
+C:\Users\bodye\OneDrive\Desktop\Project\First interface1\First interface\First interface\obj\Debug\First_interface.Doctor.resources
+C:\Users\bodye\OneDrive\Desktop\Project\First interface1\First interface\First interface\obj\Debug\First_interface.HOME.resources
+C:\Users\bodye\OneDrive\Desktop\Project\First interface1\First interface\First interface\obj\Debug\First_interface.Login.resources
+C:\Users\bodye\OneDrive\Desktop\Project\First interface1\First interface\First interface\obj\Debug\First_interface.Patient.resources
+C:\Users\bodye\OneDrive\Desktop\Project\First interface1\First interface\First interface\obj\Debug\First_interface.Properties.Resources.resources
+C:\Users\bodye\OneDrive\Desktop\Project\First interface1\First interface\First interface\obj\Debug\First_interface.Staff.resources
+C:\Users\bodye\OneDrive\Desktop\Project\First interface1\First interface\First interface\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\bodye\OneDrive\Desktop\Project\First interface1\First interface\First interface\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\bodye\OneDrive\Desktop\Project\First interface1\First interface\First interface\obj\Debug\Login.csproj.CopyComplete
+C:\Users\bodye\OneDrive\Desktop\Project\First interface1\First interface\First interface\obj\Debug\First interface.exe
+C:\Users\bodye\OneDrive\Desktop\Project\First interface1\First interface\First interface\obj\Debug\First interface.pdb
+C:\Users\bodye\OneDrive\Desktop\Project\First interface1\First interface\First interface\obj\Debug\First_interface.Nurse.resources
+C:\Users\dell\OneDrive\Desktop\Project\First interface1\First interface\First interface\bin\Debug\First interface.exe.config
+C:\Users\dell\OneDrive\Desktop\Project\First interface1\First interface\First interface\bin\Debug\First interface.exe
+C:\Users\dell\OneDrive\Desktop\Project\First interface1\First interface\First interface\bin\Debug\First interface.pdb
+C:\Users\dell\OneDrive\Desktop\Project\First interface1\First interface\First interface\bin\Debug\byMarc.Net2.WinLibrary.DataGridView.ThreadSafeLib.dll
+C:\Users\dell\OneDrive\Desktop\Project\First interface1\First interface\First interface\bin\Debug\GradientColorPicker.dll
+C:\Users\dell\OneDrive\Desktop\Project\First interface1\First interface\First interface\bin\Debug\Guna.UI2.dll
+C:\Users\dell\OneDrive\Desktop\Project\First interface1\First interface\First interface\bin\Debug\Krypton.Toolkit.dll
+C:\Users\dell\OneDrive\Desktop\Project\First interface1\First interface\First interface\bin\Debug\Krypton.Toolkit.Suite.Extended.DataGridView.dll
+C:\Users\dell\OneDrive\Desktop\Project\First interface1\First interface\First interface\bin\Debug\byMarc.Net2.WinLibrary.DataGridView.ThreadSafeLib.xml
+C:\Users\dell\OneDrive\Desktop\Project\First interface1\First interface\First interface\bin\Debug\GradientColorPicker.xml
+C:\Users\dell\OneDrive\Desktop\Project\First interface1\First interface\First interface\bin\Debug\Krypton.Toolkit.xml
+C:\Users\dell\OneDrive\Desktop\Project\First interface1\First interface\First interface\bin\Debug\Krypton.Toolkit.Suite.Extended.DataGridView.xml
+C:\Users\dell\OneDrive\Desktop\Project\First interface1\First interface\First interface\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\dell\OneDrive\Desktop\Project\First interface1\First interface\First interface\obj\Debug\Login.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\OneDrive\Desktop\Project\First interface1\First interface\First interface\obj\Debug\First_interface.Doctor.resources
+C:\Users\dell\OneDrive\Desktop\Project\First interface1\First interface\First interface\obj\Debug\First_interface.HOME.resources
+C:\Users\dell\OneDrive\Desktop\Project\First interface1\First interface\First interface\obj\Debug\First_interface.Login.resources
+C:\Users\dell\OneDrive\Desktop\Project\First interface1\First interface\First interface\obj\Debug\First_interface.Nurse.resources
+C:\Users\dell\OneDrive\Desktop\Project\First interface1\First interface\First interface\obj\Debug\First_interface.Patient.resources
+C:\Users\dell\OneDrive\Desktop\Project\First interface1\First interface\First interface\obj\Debug\First_interface.Properties.Resources.resources
+C:\Users\dell\OneDrive\Desktop\Project\First interface1\First interface\First interface\obj\Debug\First_interface.Staff.resources
+C:\Users\dell\OneDrive\Desktop\Project\First interface1\First interface\First interface\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\dell\OneDrive\Desktop\Project\First interface1\First interface\First interface\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\dell\OneDrive\Desktop\Project\First interface1\First interface\First interface\obj\Debug\Login.csproj.CopyComplete
+C:\Users\dell\OneDrive\Desktop\Project\First interface1\First interface\First interface\obj\Debug\First interface.exe
+C:\Users\dell\OneDrive\Desktop\Project\First interface1\First interface\First interface\obj\Debug\First interface.pdb

@@ -1,0 +1,41 @@
+C:\Users\q\source\repos\First interface\First interface\bin\Debug\First interface.exe.config
+C:\Users\q\source\repos\First interface\First interface\bin\Debug\First interface.exe
+C:\Users\q\source\repos\First interface\First interface\bin\Debug\First interface.pdb
+C:\Users\q\source\repos\First interface\First interface\bin\Debug\byMarc.Net2.WinLibrary.DataGridView.ThreadSafeLib.dll
+C:\Users\q\source\repos\First interface\First interface\bin\Debug\GradientColorPicker.dll
+C:\Users\q\source\repos\First interface\First interface\bin\Debug\Guna.UI2.dll
+C:\Users\q\source\repos\First interface\First interface\bin\Debug\byMarc.Net2.WinLibrary.DataGridView.ThreadSafeLib.xml
+C:\Users\q\source\repos\First interface\First interface\bin\Debug\GradientColorPicker.xml
+C:\Users\q\source\repos\First interface\First interface\obj\Debug\First interface.csprojAssemblyReference.cache
+C:\Users\q\source\repos\First interface\First interface\obj\Debug\First_interface.Login.resources
+C:\Users\q\source\repos\First interface\First interface\obj\Debug\First_interface.Properties.Resources.resources
+C:\Users\q\source\repos\First interface\First interface\obj\Debug\First interface.csproj.GenerateResource.cache
+C:\Users\q\source\repos\First interface\First interface\obj\Debug\First interface.csproj.CoreCompileInputs.cache
+C:\Users\q\source\repos\First interface\First interface\obj\Debug\First interface.csproj.CopyComplete
+C:\Users\q\source\repos\First interface\First interface\obj\Debug\First interface.exe
+C:\Users\q\source\repos\First interface\First interface\obj\Debug\First interface.pdb
+C:\Users\q\source\repos\First interface\First interface\bin\Debug\Krypton.Toolkit.dll
+C:\Users\q\source\repos\First interface\First interface\bin\Debug\Krypton.Toolkit.Suite.Extended.DataGridView.dll
+C:\Users\q\source\repos\First interface\First interface\bin\Debug\Krypton.Toolkit.xml
+C:\Users\q\source\repos\First interface\First interface\bin\Debug\Krypton.Toolkit.Suite.Extended.DataGridView.xml
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\obj\Debug\First interface.csproj.AssemblyReference.cache
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\obj\Debug\First interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\obj\Debug\First_interface.Login.resources
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\obj\Debug\First_interface.Properties.Resources.resources
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\obj\Debug\First interface.csproj.GenerateResource.cache
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\obj\Debug\First interface.csproj.CoreCompileInputs.cache
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\obj\Debug\First interface.exe
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\obj\Debug\First interface.pdb
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\bin\Debug\First interface.exe.config
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\bin\Debug\First interface.exe
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\bin\Debug\First interface.pdb
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\bin\Debug\byMarc.Net2.WinLibrary.DataGridView.ThreadSafeLib.dll
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\bin\Debug\GradientColorPicker.dll
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\bin\Debug\Guna.UI2.dll
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\bin\Debug\Krypton.Toolkit.dll
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\bin\Debug\Krypton.Toolkit.Suite.Extended.DataGridView.dll
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\bin\Debug\byMarc.Net2.WinLibrary.DataGridView.ThreadSafeLib.xml
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\bin\Debug\GradientColorPicker.xml
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\bin\Debug\Krypton.Toolkit.xml
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\bin\Debug\Krypton.Toolkit.Suite.Extended.DataGridView.xml
+C:\Users\bodye\OneDrive\Desktop\Project\First interface\First interface\First interface\obj\Debug\First interface.csproj.CopyComplete

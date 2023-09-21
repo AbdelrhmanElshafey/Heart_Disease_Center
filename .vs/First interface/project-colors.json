@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "44cf44d5-35f2-47e3-9265-5610944d5317": {
+      "ProjectGuid": "44cf44d5-35f2-47e3-9265-5610944d5317",
+      "DisplayName": "Login",
+      "ColorIndex": 0
+    },
+    "6a8286d3-2684-4072-b1be-b1c4908baf8c": {
+      "ProjectGuid": "6a8286d3-2684-4072-b1be-b1c4908baf8c",
+      "DisplayName": "Adm_Patient",
+      "ColorIndex": 1
+    },
+    "118a4599-a653-4f56-9e32-d5f1bffed527": {
+      "ProjectGuid": "118a4599-a653-4f56-9e32-d5f1bffed527",
+      "DisplayName": "Doctor",
+      "ColorIndex": 2
+    },
+    "403a1eb6-3c16-4dce-b680-d8cee2aee8b3": {
+      "ProjectGuid": "403a1eb6-3c16-4dce-b680-d8cee2aee8b3",
+      "DisplayName": "Nurse",
+      "ColorIndex": 3
+    },
+    "0345a72f-ee3f-4db6-a10f-5356ea55ee85": {
+      "ProjectGuid": "0345a72f-ee3f-4db6-a10f-5356ea55ee85",
+      "DisplayName": "Second Interface",
+      "ColorIndex": 4
+    },
+    "57a92358-78e8-4671-9f3f-bab69e668c47": {
+      "ProjectGuid": "57a92358-78e8-4671-9f3f-bab69e668c47",
+      "DisplayName": "WindowsFormsApp1",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 6
+}
