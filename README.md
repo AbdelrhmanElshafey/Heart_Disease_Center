@@ -35,3 +35,8 @@ In summary, the Cardiology Center project aims to streamline the management of a
 
 ### ***To Run The System***
 - [click here](https://drive.google.com/drive/folders/1ZBCqccRZEeGqjz5phQNvVHW-jeIbS63t?usp=sharing)
+
+## Project Team
+- [**Abdelrhman Elshafey**](https://github.com/AbdelrhmanElshafey)
+- [**Diaa Rozik**](https://github.com/diaarozik)
+
